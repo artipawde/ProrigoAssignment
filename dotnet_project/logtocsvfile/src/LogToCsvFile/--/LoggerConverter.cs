@@ -9,7 +9,6 @@ namespace LogToCsvFile
     public class LoggerConverter
     {    
         CheckExtension checkExt = new CheckExtension();
-        CommandArgumentConverter cmdArgConverter = new CommandArgumentConverter();
         public void ReadData(string sourcePath , string destinationPath)
         {
             this.destWithExt = checkExt.AddExtension(destinationPath);
@@ -123,7 +122,7 @@ namespace LogToCsvFile
 
         private Regex regex;
 
-        public List<string> levelList = new List<string>();
+        private List<string> levelList = new List<string>();
 
         public void SetLevelList(List<string> l1)
         {

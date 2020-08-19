@@ -12,7 +12,8 @@ namespace LogToCsvFile
         {
             CommandArgumentConverter cmdArgConverter = new CommandArgumentConverter();
             cmdArgConverter.Check(args);
-            cmdArgConverter.Display();
+            cmdArgConverter.AddHeader();
+           // cmdArgConverter.Display();
            try{
             cmdArgConverter.ConvertToLogger(args);
            }

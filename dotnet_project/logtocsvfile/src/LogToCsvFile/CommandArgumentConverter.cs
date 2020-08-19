@@ -11,11 +11,19 @@ namespace LogToCsvFile
 
         private string destinationPath;
 
-        public List<string> level = new List<string>();
+        private List<string> level = new List<string>();
+
+        public void AddHeader()
+        {
+            string str = "| No | Level |  Date | Time | Text |\n";
+            if (!File.Exists (destinationPath))
+            File.Create (destinationPath).Close ();
+            if (new FileInfo (destinationPath).Length == 0)
+            File.AppendAllText (destinationPath, str);
+        }
 
         public void Check(string[] args)
         {
-            Console.WriteLine("hello");
             for(int i =0; i < args.Length; i++)
             {
             if(args[i].ToLower() == "--log-dir")
@@ -31,6 +39,11 @@ namespace LogToCsvFile
                 level.Add(args[i + 1].ToUpper());
             }
             }
+        }
+
+        public void ValidateSourceFile()
+        {
+            //if(sourcePat)
         }
 
         public void Display()
