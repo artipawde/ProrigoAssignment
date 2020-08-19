@@ -1,0 +1,13 @@
+C:\Users\Arti Pawde\dotnet_project\logtocsvfile\src\LogToCsvFile\bin\Debug\netcoreapp3.1\LogToCsvFile.exe
+C:\Users\Arti Pawde\dotnet_project\logtocsvfile\src\LogToCsvFile\bin\Debug\netcoreapp3.1\LogToCsvFile.deps.json
+C:\Users\Arti Pawde\dotnet_project\logtocsvfile\src\LogToCsvFile\bin\Debug\netcoreapp3.1\LogToCsvFile.runtimeconfig.json
+C:\Users\Arti Pawde\dotnet_project\logtocsvfile\src\LogToCsvFile\bin\Debug\netcoreapp3.1\LogToCsvFile.runtimeconfig.dev.json
+C:\Users\Arti Pawde\dotnet_project\logtocsvfile\src\LogToCsvFile\bin\Debug\netcoreapp3.1\LogToCsvFile.dll
+C:\Users\Arti Pawde\dotnet_project\logtocsvfile\src\LogToCsvFile\bin\Debug\netcoreapp3.1\LogToCsvFile.pdb
+C:\Users\Arti Pawde\dotnet_project\logtocsvfile\src\LogToCsvFile\obj\Debug\netcoreapp3.1\LogToCsvFile.csprojAssemblyReference.cache
+C:\Users\Arti Pawde\dotnet_project\logtocsvfile\src\LogToCsvFile\obj\Debug\netcoreapp3.1\LogToCsvFile.AssemblyInfoInputs.cache
+C:\Users\Arti Pawde\dotnet_project\logtocsvfile\src\LogToCsvFile\obj\Debug\netcoreapp3.1\LogToCsvFile.AssemblyInfo.cs
+C:\Users\Arti Pawde\dotnet_project\logtocsvfile\src\LogToCsvFile\obj\Debug\netcoreapp3.1\LogToCsvFile.csproj.CoreCompileInputs.cache
+C:\Users\Arti Pawde\dotnet_project\logtocsvfile\src\LogToCsvFile\obj\Debug\netcoreapp3.1\LogToCsvFile.dll
+C:\Users\Arti Pawde\dotnet_project\logtocsvfile\src\LogToCsvFile\obj\Debug\netcoreapp3.1\LogToCsvFile.pdb
+C:\Users\Arti Pawde\dotnet_project\logtocsvfile\src\LogToCsvFile\obj\Debug\netcoreapp3.1\LogToCsvFile.genruntimeconfig.cache
